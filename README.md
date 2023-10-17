@@ -6,7 +6,7 @@ The game is primarily built using JavaScript to handle the game logic, generate 
 
 This project is a great example of a simple but engaging web-based game that utilizes the power of JavaScript and interactive web design to entertain and challenge users. It demonstrates the use of core web technologies and showcases the potential of DOM manipulation for creating dynamic and immersive web applications.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://finzyphinzy.github.io/Game---Guess-My-Number/
 
 ## How It's Made:
 
